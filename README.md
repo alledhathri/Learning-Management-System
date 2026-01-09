@@ -4,9 +4,13 @@ A desktop-based Learning Management System (LMS) built using Java Swing. The app
 
 # 🔍 Features  
 📚 Courses Dashboard: View all available courses with progress indicators.
+
 📖 Lessons: Mark lessons as completed and track learning progress.
+
 📝 Quizzes: Take quizzes after completing lessons to test knowledge.
+
 📊 Progress Tracking: Overall progress bar and per-course completion status.
+
 🎨 Clean UI: Modern, responsive, and user-friendly desktop interface.
 
 # ⚙️ How It Works
